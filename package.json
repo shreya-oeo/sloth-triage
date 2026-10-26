@@ -1,0 +1,10 @@
+{
+  "name": "sloth-triage",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A lazy CLI that asks a local open-weight model which tasks deserve your energy today.",
+  "scripts": {
+    "start": "bun run index.js tasks.txt"
+  }
+}
